@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sami-ur-Rehman</h1>
 <h3 align="center">A passionate Software Engineering Student</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFgG4rzRMjJhRwxXDxktcibPItP7XOGNaRQ&s">
+<img align="right" alt="coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFgG4rzRMjJhRwxXDxktcibPItP7XOGNaRQ&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXE9gqS0uUrd7GTDicD2nV_VZt63LibxIX8Q&s)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiurrehman2395&label=Profile%20views&color=0e75b6&style=flat" alt="samiurrehman2395" /> </p>
 

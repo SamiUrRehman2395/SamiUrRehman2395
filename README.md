@@ -1,4 +1,4 @@
-![logo](https://github.com/SamiUrRehman2395/SamiUrRehman2395/blob/main/Web%20Development%20Promotion%20Instagram%20Post.png)
+/*![logo](https://github.com/SamiUrRehman2395/SamiUrRehman2395/blob/main/Web%20Development%20Promotion%20Instagram%20Post.png)*/
 
 <h1 align="center">Hi 👋, I'm Sami-ur-Rehman</h1>
 <h3 align="center">A passionate Software Engineering Student</h3>
